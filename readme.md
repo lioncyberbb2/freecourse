@@ -1,7 +1,6 @@
 Free Course each days
-
-Become Better People Manager with these 50+ tools\n
-https://ouo.io/2DtWrs\n
+Become Better People Manager with these 50+ tools
+https://ouo.io/2DtWrs
 2023 Data Structures Using Python
 https://ouo.io/SPbajF
 Docker MasterClass : Docker Ecosystem From Scratch
